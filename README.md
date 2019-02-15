@@ -12,7 +12,7 @@ a series of smaller exercises for loops.
 1. Sum the numbers from 9 to 17 and print result.
 2. Print each number from the array
   * array is [ 5, 6, 8, 45, 2, 13, 71 ]
-2.5 Find the smallest number in an array of integers.
+2. Find the smallest number in an array of integers.
   * array is [ 5, 6, 8, 45, 2, 13, 71 ]
 3. Find the largest double number in an array.
   * array is [ 104.5, 62.7, 513.897, 402, 91.7 ]
